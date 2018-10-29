@@ -10,26 +10,6 @@ from controllers import make_request
 
 """
 
-133
-134 Host expmain01
-135         HostName 54.37.188.114
-136         User personaminer
-137         IdentityFile /home/cezarsn/.ssh/id_rsa
-138
-139 Host web01
-140         HostName 54.37.188.115
-141         User personaminer
-142         IdentityFile /home/cezarsn/.ssh/id_rsa
-143
-144 Host stefnode1
-145         HostName 176.223.129.42
-146         User personaminer
-147         IdentityFile /home/cezarsn/.ssh/id_rsa
-148
-149 Host cezarnode1
-150         HostName 107.191.47.243
-151         User personaminer
-152         IdentityFile /home/cezarsn/.ssh/id_rsa
 
 """
 
